@@ -1,1 +1,1 @@
-https://github.com/MrMikhaiI/posmotri-v-okno-fd/tree/master
+https://github.com/MrMikhaiI/posmotri-v-okno-fd/
