@@ -64,6 +64,7 @@ ol {
   flex: 1;
   display: flex;
   flex-direction: column;
+  padding-bottom: 6px;
 }
 
 .content__list-container {
@@ -299,11 +300,11 @@ ol {
   font-family: "Fira Sans Condensed", Arial, sans-serif;
   font-size: 18px;
   font-weight: 700;
+  min-height: 34px;
   line-height: 1;
   padding: 6px 12px;
   cursor: pointer;
   transition: all 0.2s ease;
-  gap: 10px;
 }
 
 .button:hover {
@@ -325,13 +326,12 @@ ol {
 
 .search-form__submit-button {
   min-width: 194px;
-  min-height: 34px;
   align-self: flex-end;
 }
 
 .more-button {
-  width: 100%;
-  min-height: 34px;
+  max-width: 390px;
+  margin-bottom: 2px;
 }
 
 .visually-hidden {
